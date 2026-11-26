@@ -1,6 +1,6 @@
 ## Hi, I'm Gugulethu 👋
 
-**AI Engineer building production agentic backends** — Python, FastAPI, MCP servers, PostgreSQL, Docker.
+**AI Engineer building production agentic backends** with Python, FastAPI, MCP servers, PostgreSQL and Docker.
 Based in KwaZulu-Natal, South Africa 🇿🇦 · working remotely for [Capitola Digital](https://capitola.nl) (Netherlands).
 
 ### What I work on
